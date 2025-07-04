@@ -55,7 +55,7 @@ mern-bug-tracker/
 │   │   ├── components/
 │   │   ├── App.jsx
 │   │   ├── main.jsx
-│   │   ├── **tests**/
+│   │   ├── Tests
 │   │   └── ErrorBoundary.jsx
 │   └── package.json
 │
