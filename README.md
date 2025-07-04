@@ -155,7 +155,7 @@ npm test
 | `models/`      | Mongoose schema for bug reports            |
 | `routes/`      | API endpoint routing                       |
 | `components/`  | React components for UI                    |
-| `__tests__/`   | Component and integration tests (frontend) |
+| `Tests`   | Component and integration tests (frontend) |
 | `tests/`       | Unit/integration tests (backend)           |
 
 ---
